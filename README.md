@@ -11,7 +11,8 @@ View a list of the processes and their current state (priority, burst time).
 Execution log displays the current process being executed.
 
 
-Requirements
+Requirements:
+
 
 Python 3.x
 Tkinter (usually comes pre-installed with Python)
@@ -25,7 +26,8 @@ Run Scheduler: After adding processes, click the "Run Scheduler" button to start
 View Process List: The list of processes will display with their name, priority, and remaining burst time.
 
 
-Code Explanation
+Code Explanation:
+
 
 Process Class: Represents a process with a name, priority, and burst time.
 
