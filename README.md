@@ -13,7 +13,6 @@ Execution log displays the current process being executed.
 
 Requirements:
 
-
 Python 3.x
 Tkinter (usually comes pre-installed with Python)
 
@@ -27,7 +26,6 @@ View Process List: The list of processes will display with their name, priority,
 
 
 Code Explanation:
-
 
 Process Class: Represents a process with a name, priority, and burst time.
 
